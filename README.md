@@ -46,7 +46,7 @@ Chatting is a real-time messaging application built using Flutter for the fronte
 1. Clone the repository:
    ```sh
    git clone https://github.com/stevenrockzz/intellichat.git
-   cd intellichat
+
   
 2. Installing dependencies  
  ```sh
