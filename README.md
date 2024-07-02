@@ -1,7 +1,7 @@
 # intellichat
 
 
-# Chatting
+# Chatting App
 
 A new Flutter project.
 
