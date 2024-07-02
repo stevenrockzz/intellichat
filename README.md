@@ -1,9 +1,7 @@
-# intellichat
+# Intellichat Application
 
+### Implemented real-time messaging mobile application designed to provide a seamless and interactive user experience featuring email-based user addition
 
-# Chatting App
-
-A new Flutter project.
 
 ## Description
 
@@ -33,7 +31,7 @@ Chatting is a real-time messaging application built using Flutter for the fronte
 
 ### Usage
 - Open the app.
-- ign up using Google Sign-In or create an account with email and password.
+- Sign up using Google Sign-In or create an account with email and password.
 - Start chatting with other users in real-time.
 ### Acknowledgements
 - Flutter
@@ -47,7 +45,24 @@ Chatting is a real-time messaging application built using Flutter for the fronte
    ```sh
    git clone https://github.com/stevenrockzz/intellichat.git
 
-  
-2. Installing dependencies  
- ```sh
+2. Installing dependencies:
+   ```sh
    flutter pub get
+
+### Running the Application
+
+1. Connecting to Device or Emulator:
+
+   - Connect your physical device or start an emulator:
+   
+   - Ensure that your device/emulator is detected by running:
+   
+   
+   ```sh
+   flutter devices
+2. Running the App:
+ 
+  - Execute the following command to run the app:
+
+  ```sh
+  flutter run
